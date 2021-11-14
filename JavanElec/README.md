@@ -37,3 +37,5 @@ ZENER_ZMM4V3_4.3V_500mW_MINI MELF - https://www.javanelec.com/Shops/ProductDetai
 ZENER_ZMM4V7_4.7V_500mW_MINI MELF - https://www.javanelec.com/Shops/ProductDetail/7722
 
 ZENER_ZMM5V1_5.1V_500mW-MINI MELF - https://www.javanelec.com/Shops/ProductDetail/7723
+
+ZENER_AZ23C6V2_6.2V_300mW_SOT-23 - 
