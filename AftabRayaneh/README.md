@@ -11,5 +11,4 @@ PhotoDiode_TSL2561 - https://shop.aftabrayaneh.com/cjmcu-tsl2561-light-sensor-mo
 
 PhotoDiode_BH1750FVI - https://shop.aftabrayaneh.com/Intensity_Sensor_Bh1750fvi__AFTAB.html?search=BH1750FVI
 
-
-
+PhotoDiode_TEMT6000 - https://shop.aftabrayaneh.com/Temt6000_Light_Sensor_Module__AFTAB.html?search=ماژول%20سنسور%20نور%20Temt6000
